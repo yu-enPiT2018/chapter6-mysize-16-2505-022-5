@@ -10,7 +10,7 @@ import android.widget.SeekBar
 import android.widget.Spinner
 import kotlinx.android.synthetic.main.activity_height.*
 
-class  HeightActivity : AppCompatActivity() { //ub
+class  HeightActivity : AppCompatActivity() {
 
 
     override fun onCreate(savedInstanceState: Bundle?) {
